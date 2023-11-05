@@ -2,7 +2,7 @@
 Flutter MongoDb Crud Operation Example
 
 
-
+TR
  
 Temel Özellikler:
 
@@ -27,6 +27,32 @@ MongoDB:
 Veritabanı işlemleri için MongoDB kullanılmıştır. Bu, güvenli, ölçeklenebilir ve esnek bir veritabanı çözümü sunar.
 
 Bu uygulama, kullanıcıların bilgilerini etkili bir şekilde yönetmelerini sağlamak amacıyla tasarlanmıştır. Hem Flutter hem de MongoDB'nin avantajlarıyla birleştirilen bu proje, güçlü bir mobil uygulama deneyimi sunar.
+
+
+EN
+Key Features:
+
+User Addition and Viewing:
+The app allows users to add their basic information (name, age, email, etc.) and later view this information. The user-friendly interface facilitates easy entry and management of information.
+
+Database Connection:
+The application securely communicates with the MongoDB database, ensuring the safe storage of user information. The combination of Flutter's fast and flexible interface with MongoDB's reliable data storage capabilities results in robust performance.
+
+Update and Delete Operations:
+Users can update or delete their registered information at any time, providing a dynamic and user-friendly experience.
+
+Search and Sorting:
+With the search and sorting features within the application, users can easily filter large datasets and quickly access the information they need.
+
+Technology Stack:
+
+Flutter Framework:
+The app's user interface is created using the Flutter framework, offering rapid development and support for various platforms.
+
+MongoDB:
+MongoDB is used for database operations, providing a secure, scalable, and flexible database solution.
+
+Designed to empower users in effectively managing their information, this application leverages the advantages of both Flutter and MongoDB to deliver a robust mobile app experience.
 
 
 
