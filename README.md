@@ -1,7 +1,7 @@
 # Flutter-MongoDb-Example
 Flutter MongoDb Crud Operation Example
 
- Screenshots and
+ Screenshot and
 dependencies:
  # MongoDB
   mongo_dart: ^0.9.3
